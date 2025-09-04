@@ -866,7 +866,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
-                <h3>Footwear</h3>
+                <h3>Footwear and inner </h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
@@ -990,6 +990,7 @@
                             <span id="seconds">59</span>
                             <span>Seconds</span>
                         </div>
+
                     </div>
                     
                     <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
