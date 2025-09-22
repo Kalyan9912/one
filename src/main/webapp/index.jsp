@@ -827,7 +827,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>mY COLLECTION </h1>
+            <h1>KALYAN's COLLECTION </h1>
 
               <h1>MY COLLECTION </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
